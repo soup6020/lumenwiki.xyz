@@ -4,7 +4,7 @@ description: >-
   How to flash the Technoman UI or default firmware onto the 47mm XBY v4.2
   driver
 published: true
-date: '2026-11-09T01:45:32.751Z'
+date: '2026-11-09T02:43:42.240Z'
 tags:
   - guide
   - flashing
@@ -25,7 +25,7 @@ This guide covers flashing the 47mm XBY v4.2 driver used in the big [DongDongHai
 ## What you need
 | Item | Notes | Example |
 |---|---|---|
-| USB-serial adapter | Any common adapter works. A CH340 adapter costs a few dollars and is fine. | [Adapter used by Technoman](https://www.amazon.com/dp/B0DLGN14T6) (more advanced than a CH340) |
+| USB-serial adapter | Any common adapter works. A CH340 adapter costs a few dollars and is fine. The defining trait for compatibility appears to be variable baud rate capability. | [Adapter used by Technoman](https://www.amazon.com/dp/B0DLGN14T6) (more advanced than a CH340) |
 | SOP8 4.4mm pogo-pin probe | Used to touch the programming pads on the driver | [Probe used by Technoman](https://www.amazon.com/dp/B0DPFXQL9Q) |
 | Flashing software | Windows program (.exe) | [Google Drive folder](https://drive.google.com/drive/folders/1GcXeJJPlQc7lIDeoQrTkjoAtc5OmHAw3) |
 
