@@ -51,7 +51,7 @@ XBY drivers come with one of two UIs, and on drivers that have both, 7H switches
 
 The INeedMoreLumens drivers run Anduril 2.
 
-To install the Technoman UI on an XBY47 v4.2 driver, see [Flashing the XBY47 v4.2 driver](/guides/flashing-xby47-v4.2).
+To install the Technoman UI on an XBY47 v4.2 driver, see [Flashing the XBY47 v4.2 driver](/guides/flashing-xby47-v4-2).
 
 ## Notes
 - DDH reflectors are reported to be interchangeable with those of the Convoy C8, C8+, M21A and MantaRay M45.

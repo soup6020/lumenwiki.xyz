@@ -11,7 +11,7 @@ dateCreated: '2026-11-08T23:00:00.000Z'
 # Technoman UI
 A custom UI for XBY drivers, which are commonly fitted to [DongDongHai](/manufacturers/dongdonghai) hosts. It replaces the [XBY original UI](/user-interfaces/xby-original-ui). On drivers that have both, **7H** switches between them.
 
-Drivers reported to ship with it include the **XBY47 v4.20** (50A buck + 350A FET) and the **XBY32 v4.25EX** (18A buck + 170A FET). See [DongDongHai drivers](/manufacturers/dongdonghai#drivers). To install it on an XBY47 v4.2, see [Flashing the XBY47 v4.2 driver](/guides/flashing-xby47-v4.2).
+Drivers reported to ship with it include the **XBY47 v4.20** (50A buck + 350A FET) and the **XBY32 v4.25EX** (18A buck + 170A FET). See [DongDongHai drivers](/manufacturers/dongdonghai#drivers). To install it on an XBY47 v4.2, see [Flashing the XBY47 v4.2 driver](/guides/flashing-xby47-v4-2).
 
 *Part of [User interfaces](/user-interfaces). See [Notation](/user-interfaces#notation) for what 1C and 1H mean.*
 
