@@ -4,7 +4,7 @@ description: >-
   How to flash the Technoman UI or default firmware onto the 47mm XBY v4.2
   driver
 published: true
-date: '2026-11-09T01:44:18.575Z'
+date: '2026-11-09T01:45:32.751Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-09T00:00:00.000Z'
@@ -72,4 +72,4 @@ Once it's flashed, you can use 7H to switch between the [Technoman UI](/user-int
 
 ## Sources
 - Flashing notes from Technoman (November 2026)
-- Additional notes from a community member on start order, pad contact order and using Arduino boards (November 2026)
+- Additional notes from a community member (FarmerLars) on start order, pad contact order and using Arduino boards (November 2026)
