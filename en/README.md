@@ -1,8 +1,10 @@
 ---
 title: Main page
-description: lumenwiki.xyz landing page
+description: >-
+  LumenWiki provides information about various enthusiast flashlights and
+  components
 published: true
-date: '2026-11-09T02:56:23.840Z'
+date: '2026-11-09T03:12:41.143Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-08T19:07:27.061Z'
