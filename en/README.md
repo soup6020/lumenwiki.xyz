@@ -14,6 +14,7 @@ This wiki exists to aggregate information about various flashlights, LED emitter
 # Browse
 - [Manufacturers](/manufacturers)
 - [User interfaces](/user-interfaces)
+- [Guides](/guides)
 
 # Community Links (unaffiliated)
 [Flashlights Discord](https://discord.gg/vV3m4Sv3nD)
