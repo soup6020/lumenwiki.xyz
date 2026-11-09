@@ -2,7 +2,7 @@
 title: Main page
 description: lumenwiki.xyz landing page
 published: true
-date: '2026-11-08T21:07:01.400Z'
+date: '2026-11-09T02:41:39.523Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-08T19:07:27.061Z'
@@ -19,3 +19,7 @@ This wiki exists to aggregate information about various flashlights, LED emitter
 # Community Links (unaffiliated)
 [Flashlights Discord](https://discord.gg/vV3m4Sv3nD)
 [BudgetLightForum](https://budgetlightforum.com/)
+
+# About
+Registration is currently closed. 
+Contact @soup6020 on Discord or @architect:hollow.city on Matrix if you would like an account here.
