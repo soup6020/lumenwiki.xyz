@@ -33,6 +33,7 @@ dateCreated: '2026-11-08T22:00:00.000Z'
 | [D8](/manufacturers/dongdonghai/d8) | 46950 | 85mm | 50mm | 47mm | Side (e-switch) | 220mm | 764g |
 | [D8DF](/manufacturers/dongdonghai/d8df) | 46950 | 85mm | 50mm | 47mm | Side (e-switch) | 246mm | 810g |
 | [F8B](/manufacturers/dongdonghai/f8b) | 46950 | 85mm | 50mm (BLF thread: 60mm) | 47mm | Side (e-switch) | 198mm | 845g |
+| [X10](/manufacturers/dongdonghai/x10) | 46950 | 65mm | 60mm | 47mm | Side (e-switch) | 188mm | 607g |
 
 ## Drivers
 | Driver | Size | Type | Notes |

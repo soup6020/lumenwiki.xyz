@@ -37,7 +37,7 @@ With an orange peel (OP) reflector that has a 23mm opening, it takes large emitt
 The sources disagree on some specs. The values above are from Technoman. The BLF thread lists a length of 218mm, a weight of 769g and a 32/50mm MCPCB, and mentions only one cooling fan.
 
 ## Battery tubes
-The D6F, D7F, D8, D8DF and F8B share a 53mm battery tube system. Reported options are 46950, 46120 and 2×46950 tubes, and a 3×21700 carrier.
+The D6F, D7F, D8, D8DF, F8B and X10 share a 53mm battery tube system. Reported options are 46950, 46120 and 2×46950 tubes, and a 3×21700 carrier.
 
 ## Drivers
 These hosts take a 47mm driver. Options reported in the thread:
