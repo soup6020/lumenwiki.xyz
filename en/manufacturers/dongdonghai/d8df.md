@@ -33,10 +33,8 @@ The D8DF is the same as the [D8](/manufacturers/dongdonghai/d8), but its body is
 
 ## Photos
 ![D8DF](/images/dongdonghai/d8df-1.jpg =400x)
-*D8DF*
 
 ![D8DF](/images/dongdonghai/d8df-2.jpg =400x)
-*D8DF*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 

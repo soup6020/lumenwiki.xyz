@@ -58,13 +58,10 @@ To install the Technoman UI on an XBY47 v4.2 driver, see [Flashing the XBY47 v4.
 
 ### Driver photos
 ![XBY47 Ver4.20](/images/dongdonghai/xby47-v4-20.jpg =400x)
-*XBY47 Ver4.20 (50A buck). The V, G, T and R flashing pads are at the upper left.*
 
 ![XBY47 Ver4.19](/images/dongdonghai/xby47-v4-19.jpg =400x)
-*XBY47 Ver4.19, with fan connections (Fan+ / Fan−)*
 
 ![XBY47 Ver4.15](/images/dongdonghai/xby47-v4-15.jpg =400x)
-*XBY47 Ver4.15 (35A buck)*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 

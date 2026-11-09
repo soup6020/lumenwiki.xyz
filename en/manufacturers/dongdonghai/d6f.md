@@ -31,10 +31,8 @@ The **D6F** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 4
 
 ## Photos
 ![D6F](/images/dongdonghai/d6f-1.jpg =400x)
-*D6F*
 
 ![D6F](/images/dongdonghai/d6f-2.jpg =400x)
-*D6F*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 

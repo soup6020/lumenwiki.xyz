@@ -14,4 +14,4 @@ Flashlight and flashlight host manufacturers documented on this wiki.
 
 - [DongDongHai (DDH)](/manufacturers/dongdonghai)
 
-You can also browse every page tagged [manufacturer](/t/manufacturer).
+You can also browse every page tagged [manufacturer](/_tags?t=manufacturer).

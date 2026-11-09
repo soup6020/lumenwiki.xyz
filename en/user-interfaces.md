@@ -23,4 +23,4 @@ Driver firmware user interfaces (UIs), meaning the click and hold patterns that 
 - [XBY original UI](/user-interfaces/xby-original-ui): the earlier UI on XBY drivers
 - [Technoman UI](/user-interfaces/technoman-ui): the newer custom UI on XBY drivers
 
-You can also browse every page tagged [ui](/t/ui).
+You can also browse every page tagged [ui](/_tags?t=ui).

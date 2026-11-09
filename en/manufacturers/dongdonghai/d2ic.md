@@ -31,10 +31,8 @@ The **D2iC** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 
 
 ## Photos
 ![D2iC](/images/dongdonghai/d2ic-1.jpg =400x)
-*D2iC*
 
 ![D2iC parts](/images/dongdonghai/d2ic-2.jpg =400x)
-*D2iC parts*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 

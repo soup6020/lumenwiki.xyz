@@ -31,10 +31,8 @@ The **M1C** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 
 ## Photos
 ![M1C](/images/dongdonghai/m1c-1.jpg =400x)
-*M1C*
 
 ![M1C](/images/dongdonghai/m1c-2.jpg =400x)
-*M1C*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 

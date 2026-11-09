@@ -31,7 +31,6 @@ The **M0BC** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 
 
 ## Photos
 ![M0BC](/images/dongdonghai/m0bc-1.jpg =400x)
-*M0BC*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 

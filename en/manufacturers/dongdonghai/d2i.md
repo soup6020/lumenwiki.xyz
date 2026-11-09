@@ -31,7 +31,6 @@ The **D2i** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 
 ## Photos
 ![D2i in black and silver](/images/dongdonghai/d2i-1.jpg =400x)
-*D2i in black and silver*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 

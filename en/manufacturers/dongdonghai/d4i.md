@@ -31,10 +31,8 @@ The **D4i** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 
 ## Photos
 ![D4i](/images/dongdonghai/d4i-1.jpg =400x)
-*D4i*
 
 ![D4i head, battery tube with USB-C port, and tailcap](/images/dongdonghai/d4i-2.jpg =400x)
-*D4i head, battery tube with USB-C port, and tailcap*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 

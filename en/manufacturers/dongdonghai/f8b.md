@@ -33,10 +33,8 @@ Also known simply as the **F8**. The **F8V** is a white MAO (micro-arc oxidation
 
 ## Photos
 ![F8B](/images/dongdonghai/f8b-1.jpg =400x)
-*F8B*
 
 ![F8B](/images/dongdonghai/f8b-2.jpg =400x)
-*F8B*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 

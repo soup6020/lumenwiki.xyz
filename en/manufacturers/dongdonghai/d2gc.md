@@ -31,7 +31,6 @@ The **D2GC** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 
 
 ## Photos
 ![D2GC in silver and black](/images/dongdonghai/d2gc-1.jpg =400x)
-*D2GC in silver and black*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 

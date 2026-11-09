@@ -31,13 +31,10 @@ The **M4B** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 
 ## Photos
 ![M4B](/images/dongdonghai/m4b-1.jpg =400x)
-*M4B*
 
 ![M4B parts. The USB-C charging port is hidden in the battery tube threads](/images/dongdonghai/m4b-2.jpg =400x)
-*M4B parts. The USB-C charging port is hidden in the battery tube threads*
 
 ![4-emitter (left) and single-emitter (right) reflectors, shown without emitters](/images/dongdonghai/m4-reflectors.jpg =400x)
-*4-emitter (left) and single-emitter (right) reflectors, shown without emitters*
 
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
