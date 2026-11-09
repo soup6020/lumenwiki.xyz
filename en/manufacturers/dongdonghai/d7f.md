@@ -31,7 +31,7 @@ The **D7F** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 4
 Single-emitter version with a Ø60×33mm reflector with a 23mm opening, on the same 50mm MCPCB. Weight unknown. No purchase link is given in the thread.
 
 ## Battery tubes
-The D6F, D7F, D8DF and F8B share a 53mm battery tube system. Reported options are 46950, 46120 and 2×46950 tubes, and a 3×21700 carrier.
+The D6F, D7F, D8, D8DF and F8B share a 53mm battery tube system. Reported options are 46950, 46120 and 2×46950 tubes, and a 3×21700 carrier.
 
 ## Drivers
 These hosts take a 47mm driver. Options reported in the thread:

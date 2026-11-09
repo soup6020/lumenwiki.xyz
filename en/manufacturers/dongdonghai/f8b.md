@@ -9,25 +9,36 @@ dateCreated: '2026-11-08T22:00:00.000Z'
 ---
 
 # DongDongHai F8B
-The **F8B** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 46950 cells with a 85mm head.
+The **F8B** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 46950 cells with an 85mm head.
+
+Also known simply as the **F8**. The **F8V** is a white MAO (micro-arc oxidation) finish version.
 
 ## Specifications
 | Spec | Value |
 |---|---|
 | Head diameter | 85mm |
-| Reflector | Ø80×23mm, 8 emitters (7070) |
-| MCPCB | 60mm (8×7070) |
+| Reflector | Ø80×23mm multi-emitter optic |
+| MCPCB | 50mm (BLF thread: 60mm) |
 | Driver diameter | 47mm |
 | Switch | Side (e-switch) |
 | Battery tube diameter | 53mm |
 | Battery | 46950 |
 | Overall length | 198mm |
 | Weight | 845g |
-| Colours | Black |
-| Remarks | Cooling fan; 3×21700 and 46120 tubes available |
+| Colours | Black (F8V: white) |
+| Remarks | 2 cooling fans, tripod mount, USB-C |
+
+## Emitters
+The F8 takes 8 emitters, either 8×7070 or 8×5050.
+
+## Performance
+The F8 is a "lumen monster". The best builds reach about 100,000 lm on turbo and sustain about 20,000 lm. It has a wide hotspot with respectable throw.
+
+## Notes
+The sources disagree on the MCPCB size. The expert notes say 50mm. The BLF thread says 60mm (8×7070).
 
 ## Battery tubes
-The D6F, D7F, D8DF and F8B share a 53mm battery tube system. Reported options are 46950, 46120 and 2×46950 tubes, and a 3×21700 carrier.
+The D6F, D7F, D8, D8DF and F8B share a 53mm battery tube system. Reported options are 46950, 46120 and 2×46950 tubes, and a 3×21700 carrier.
 
 ## Drivers
 These hosts take a 47mm driver. Options reported in the thread:
@@ -37,7 +48,8 @@ These hosts take a 47mm driver. Options reported in the thread:
 - An Anduril 10A buck / 120A FET driver also fits, but its USB-C port is a placeholder, so charging needs the tube's charging cap.
 
 ## Where to buy
-- [Taobao](https://item.taobao.com/item.htm?id=1004434960757)
+- [Official DDH listing on Taobao](https://e.tb.cn/h.jhwQzkeec9hCfTc) (host only, no electronics)
 
 ## Sources
 - [The Unofficial DongDongHai (DDH) info thread](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549) on BudgetLightForum
+- Host notes from an experienced DDH builder (November 2026)

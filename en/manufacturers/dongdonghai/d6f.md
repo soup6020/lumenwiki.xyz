@@ -27,7 +27,7 @@ The **D6F** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 4
 | Remarks | 3×21700 and 46120 tubes available |
 
 ## Battery tubes
-The D6F, D7F, D8DF and F8B share a 53mm battery tube system. Reported options are 46950, 46120 and 2×46950 tubes, and a 3×21700 carrier.
+The D6F, D7F, D8, D8DF and F8B share a 53mm battery tube system. Reported options are 46950, 46120 and 2×46950 tubes, and a 3×21700 carrier.
 
 ## Drivers
 These hosts take a 47mm driver. Options reported in the thread:

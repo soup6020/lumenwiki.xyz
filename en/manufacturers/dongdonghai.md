@@ -30,8 +30,9 @@ dateCreated: '2026-11-08T22:00:00.000Z'
 | [D5F](/manufacturers/dongdonghai/d5f) | 26650 | 64.5mm | 32mm | 32mm | Side (e-switch) | 175mm | 395g |
 | [D6F](/manufacturers/dongdonghai/d6f) | 46950 | 65mm | 32mm | 47mm | Side (e-switch) | 195mm | 541g |
 | [D7F](/manufacturers/dongdonghai/d7f) | 46950 | 65mm | 50mm | 47mm | Side (e-switch) | 180mm | 530g |
-| [D8DF](/manufacturers/dongdonghai/d8df) | 46950 | 85mm | 32/50mm | 47mm | Side (e-switch) | 218mm | 769g |
-| [F8B](/manufacturers/dongdonghai/f8b) | 46950 | 85mm | 60mm (8×7070) | 47mm | Side (e-switch) | 198mm | 845g |
+| [D8](/manufacturers/dongdonghai/d8) | 46950 | 85mm | 50mm | 47mm | Side (e-switch) | 220mm | 764g |
+| [D8DF](/manufacturers/dongdonghai/d8df) | 46950 | 85mm | 50mm | 47mm | Side (e-switch) | 246mm | 810g |
+| [F8B](/manufacturers/dongdonghai/f8b) | 46950 | 85mm | 50mm (BLF thread: 60mm) | 47mm | Side (e-switch) | 198mm | 845g |
 
 ## Drivers
 | Driver | Size | Type | Notes |
