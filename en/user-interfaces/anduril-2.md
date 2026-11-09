@@ -2,7 +2,7 @@
 title: Anduril 2
 description: Anduril 2, the open-source flashlight firmware and UI by ToyKeeper
 published: true
-date: '2026-11-09T23:29:43.934Z'
+date: '2026-11-09T23:37:54.352Z'
 tags:
   - ui
   - anduril
@@ -19,10 +19,7 @@ It has two interfaces:
 
 *Part of [User interfaces](/user-interfaces). See [Notation](/user-interfaces#notation) for what 1C and 1H mean.*
 
-> Many features depend on the light's hardware and firmware version, and default values vary between lights. The [official manual](https://github.com/ToyKeeper/anduril/blob/trunk/docs/anduril-manual.md) by ToyKeeper should be the go-to for reference, but manufacturers may override certain behaviour.
-{.is-info}
-
-> This page may not have 100% accuracy. Anduril is a complex UI and it is difficult to document in full, especially given it is modified by various vendors. When in doubt, consult the [official manual](https://github.com/ToyKeeper/anduril/blob/trunk/docs/anduril-manual.md), or documentation that shipped with your light (if applicable).
+> This page may not have 100% accuracy. Many features depend on the light's hardware and firmware version, and default values vary between lights. Anduril is a complex UI and it is difficult to document in full, especially given the modifications done by various vendors. When in doubt, consult the [official manual](https://github.com/ToyKeeper/anduril/blob/trunk/docs/anduril-manual.md), or documentation that shipped with your light (if applicable).
 {.is-warning}
 
 ## Diagram
