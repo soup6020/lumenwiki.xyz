@@ -2,7 +2,7 @@
 title: Anduril 2
 description: Anduril 2, the open-source flashlight firmware and UI by ToyKeeper
 published: true
-date: '2026-11-09T23:30:00.000Z'
+date: '2026-11-09T23:24:45.116Z'
 tags:
   - ui
   - anduril
@@ -259,7 +259,7 @@ Smooth and stepped ramps have separate settings. Set the ramp style first, then 
 2. **Temperature limit:** click n times for 30 + n °C. Default 45°C, max 70°C.
 
 > Lights often arrive with miscalibrated thermal settings, it is a good idea to set the current room temperature after receiving a new Anduril light.
-{is.warning}
+{.is-warning}
 
 ### Misc config (9H from off, some lights)
 1. Tint ramp style (multi-channel lights): 0 = smooth, 1 = middle tint only, 2 = extreme tints only, 3+ = stepped with that many steps
