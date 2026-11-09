@@ -35,14 +35,14 @@ The F8 takes 8 emitters, either 8×7070 or 8×5050.
 The F8 is a "lumen monster". The best builds reach about 100,000 lm on turbo and sustain about 20,000 lm. It has a wide hotspot with respectable throw.
 
 ## Notes
-The sources disagree on the MCPCB size. The expert notes say 50mm. The BLF thread says 60mm (8×7070).
+The sources disagree on the MCPCB size. Technoman says 50mm. The BLF thread says 60mm (8×7070).
 
 ## Battery tubes
 The D6F, D7F, D8, D8DF and F8B share a 53mm battery tube system. Reported options are 46950, 46120 and 2×46950 tubes, and a 3×21700 carrier.
 
 ## Drivers
 These hosts take a 47mm driver. Options reported in the thread:
-- **XBY47 v4.20**: 50A buck + 350A FET, Technoman UI, fan controller, 22.5W USB-C charging, powerbank. ([Taobao](https://item.taobao.com/item.htm?id=1056017851318))
+- **XBY47 v4.20**: 50A buck + 350A FET, [Technoman UI](/user-interfaces/technoman-ui), fan controller, 22.5W USB-C charging, powerbank. ([Taobao](https://item.taobao.com/item.htm?id=1056017851318))
 - **XBY47 v4.15/4.19**: 40A buck + 300A FET, fan controller.
 - Older XBY 30A buck / 300A FET (v3.5k) with working USB-C and click-for-off custom UI. Avoid the older v2.5, which is FET-only.
 - An Anduril 10A buck / 120A FET driver also fits, but its USB-C port is a placeholder, so charging needs the tube's charging cap.
@@ -52,4 +52,4 @@ These hosts take a 47mm driver. Options reported in the thread:
 
 ## Sources
 - [The Unofficial DongDongHai (DDH) info thread](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549) on BudgetLightForum
-- Host notes from an experienced DDH builder (November 2026)
+- Host notes from Technoman (November 2026)

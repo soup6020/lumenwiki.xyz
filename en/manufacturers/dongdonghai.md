@@ -37,12 +37,19 @@ dateCreated: '2026-11-08T22:00:00.000Z'
 ## Drivers
 | Driver | Size | Type | Notes |
 |---|---|---|---|
-| XBY32 v4.25/EX | 32mm | 18A buck + 170A FET | 14C buck turbo (23/28.75/34.5A), Technoman UI (v4.25EX), 22.5W USB-C, powerbank |
+| XBY32 v4.25/EX | 32mm | 18A buck + 170A FET | 14C buck turbo (23/28.75/34.5A), [Technoman UI](/user-interfaces/technoman-ui) (v4.25EX), 22.5W USB-C, powerbank |
 | XBY47 v4.15/4.19 | 47mm | 40A buck + 300A FET | Fan controller, 22.5W USB-C, powerbank |
-| XBY47 v4.20 | 47mm | 50A buck + 350A FET | Technoman UI, fan controller, 22.5W USB-C, powerbank |
+| XBY47 v4.20 | 47mm | 50A buck + 350A FET | [Technoman UI](/user-interfaces/technoman-ui), fan controller, 22.5W USB-C, powerbank |
 | [INeedMoreLumens 22mm_FET+1_v1.1](https://oshpark.com/shared_projects/Yge0SLxg) | 22mm | FET+1, Anduril 2 | Open source |
 | [INeedMoreLumens 32mm_FET+1_v1.0](https://oshpark.com/shared_projects/8pnFmzGW) | 32mm | FET+1, Anduril 2 | For the M4B |
 | [INeedMoreLumens 32mm_FET+1+C_v1.1](https://oshpark.com/shared_projects/wJUqO261) | 32mm | FET+1, Anduril 2, USB-C | For the D2iC, M4C and D5F |
+
+### User interfaces
+XBY drivers come with one of two UIs, and on drivers that have both, 7H switches between them:
+- [XBY original UI](/user-interfaces/xby-original-ui): the older stock UI
+- [Technoman UI](/user-interfaces/technoman-ui): the newer custom UI, which adds moon modes, buck-only turbo limits (14C) and rearranged controls
+
+The INeedMoreLumens drivers run Anduril 2.
 
 ## Notes
 - DDH reflectors are reported to be interchangeable with those of the Convoy C8, C8+, M21A and MantaRay M45.
