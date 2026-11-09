@@ -1,9 +1,11 @@
 ---
 title: Flashing the XBY47 v4.2 driver
-description: How to flash the Technoman UI or default firmware onto the 47mm XBY v4.2 driver
+description: >-
+  How to flash the Technoman UI or default firmware onto the 47mm XBY v4.2
+  driver
 published: true
-date: '2026-11-09T00:00:00.000Z'
-tags: guide, flashing, xby, dongdonghai
+date: '2026-11-09T01:37:35.648Z'
+tags: []
 editor: markdown
 dateCreated: '2026-11-09T00:00:00.000Z'
 ---
@@ -55,7 +57,7 @@ Both **3.3V** and **5V** on the V pad have been reported to work (tested with Ar
    - **Instructions**
    - **v4.2 default settings**: restores the stock firmware settings
    - **New UI**: the [Technoman UI](/user-interfaces/technoman-ui)
-4. Rename the file you want to flash so it ends in `.exe`. Technoman's notes say to change the extension to `_.exe`.
+4. Rename the file you want to flash so it ends in `.exe`.
 5. Run that file. Most of the interface is in Chinese, but the important buttons are in English.
 
 ## Flashing
