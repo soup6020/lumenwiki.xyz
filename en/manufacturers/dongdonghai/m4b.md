@@ -39,7 +39,7 @@ The **M4B** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Drivers
-INeedMoreLumens' open-source [32mm_FET+1_v1.0](https://oshpark.com/shared_projects/8pnFmzGW) Anduril 2 driver was designed for the M4B.
+INeedMoreLumens' open-source [32mm_FET+1_v1.0](https://oshpark.com/shared_projects/8pnFmzGW) [Anduril 2](/user-interfaces/anduril-2) driver was designed for the M4B.
 
 See also: [M4C](/manufacturers/dongdonghai/m4c), [M4D](/manufacturers/dongdonghai/m4d).
 

@@ -39,7 +39,7 @@ The **D5F** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 *Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Drivers
-INeedMoreLumens' open-source [32mm_FET+1+C_v1.1](https://oshpark.com/shared_projects/wJUqO261) Anduril 2 driver fits the D5F. The [XBY32](/manufacturers/dongdonghai#drivers) driver is also an option.
+INeedMoreLumens' open-source [32mm_FET+1+C_v1.1](https://oshpark.com/shared_projects/wJUqO261) [Anduril 2](/user-interfaces/anduril-2) driver fits the D5F. The [XBY32](/manufacturers/dongdonghai#drivers) driver is also an option.
 
 ## Where to buy
 - [Taobao](https://item.taobao.com/item.htm?id=738827238211)

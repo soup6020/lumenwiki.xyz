@@ -22,5 +22,6 @@ Driver firmware user interfaces (UIs), meaning the click and hold patterns that 
 ## Interfaces
 - [XBY original UI](/user-interfaces/xby-original-ui): the earlier UI on XBY drivers
 - [Technoman UI](/user-interfaces/technoman-ui): the newer custom UI on XBY drivers
+- [Anduril 2](/user-interfaces/anduril-2): open-source firmware by ToyKeeper, used on many enthusiast lights
 
 You can also browse every page tagged [ui](/_tags?t=ui).
