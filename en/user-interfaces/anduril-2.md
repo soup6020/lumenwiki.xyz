@@ -2,7 +2,7 @@
 title: Anduril 2
 description: Anduril 2, the open-source flashlight firmware and UI by ToyKeeper
 published: true
-date: '2026-11-09T23:29:13.176Z'
+date: '2026-11-09T23:29:43.934Z'
 tags:
   - ui
   - anduril
@@ -14,7 +14,7 @@ dateCreated: '2026-11-09T23:30:00.000Z'
 **Anduril 2** is open-source flashlight firmware by ToyKeeper, released under the GPL v3. It is used on many enthusiast lights, including Emisar, Noctigon, Fireflies, Sofirn and Wurkkos models, and on hobbyist drivers such as INeedMoreLumens' [DongDongHai](/manufacturers/dongdonghai#drivers) drivers.
 
 It has two interfaces:
-- **Simple UI:** the default. It limits the brightness range and hides advanced features, so the light is safe to lend to someone.
+- **Simple UI:** the default. It limits the brightness range and hides advanced features and configuration menus, so the light is safe to lend to someone.
 - **Advanced UI:** everything else, including strobes, configuration menus and aux LED settings.
 
 *Part of [User interfaces](/user-interfaces). See [Notation](/user-interfaces#notation) for what 1C and 1H mean.*
