@@ -4,7 +4,7 @@ description: >-
   How to flash the Technoman UI or default firmware onto the 47mm XBY v4.2
   driver
 published: true
-date: '2026-11-09T01:37:35.648Z'
+date: '2026-11-09T01:44:18.575Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-09T00:00:00.000Z'
@@ -34,7 +34,7 @@ An Arduino Nano or Uno (both ATmega328P boards) has also been used successfully 
 | Arduino Uno (generic) | CP2104 |
 
 - Install the latest USB driver for the board's chip (CH340 or CP210x). Both boards needed the newest drivers.
-- On one board, TX and RX had to be swapped. It's unclear whether that was a silkscreen error. If flashing doesn't work, try swapping them.
+- On at least one board, TX and RX had to be swapped. This is normal for UART. If flashing this way doesn't work, try swapping them.
 
 ## Wiring
 The driver has four programming pads, marked **V**, **G**, **T** and **R**. Trace which probe pin lands on each pad, then wire the probe to the adapter:
