@@ -2,9 +2,9 @@
 title: Main page
 description: >-
   LumenWiki provides information about various enthusiast flashlights and
-  components
+  components.
 published: true
-date: '2026-11-09T03:12:41.143Z'
+date: '2026-11-09T03:12:47.808Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-08T19:07:27.061Z'
