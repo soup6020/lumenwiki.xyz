@@ -3,7 +3,10 @@ title: DongDongHai M0BC
 description: DongDongHai M0BC 21700 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 21700
+tags:
+  - dongdonghai
+  - host
+  - '21700'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -25,6 +28,12 @@ The **M0BC** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 
 | Weight | 119g |
 | Colours | Black |
 | Remarks | USB-C, magnetic tailcap |
+
+## Photos
+![M0BC](/images/dongdonghai/m0bc-1.jpg =400x)
+*M0BC*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Where to buy
 - [Taobao](https://item.taobao.com/item.htm?id=870692632479)

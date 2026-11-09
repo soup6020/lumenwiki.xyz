@@ -3,7 +3,10 @@ title: DongDongHai D8DF
 description: DongDongHai D8DF 46950 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 46950
+tags:
+  - dongdonghai
+  - host
+  - '46950'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -27,6 +30,15 @@ The D8DF is the same as the [D8](/manufacturers/dongdonghai/d8), but its body is
 | Weight | 810g |
 | Colours | Black |
 | Remarks | 2 cooling fans, tripod mount, USB-C |
+
+## Photos
+![D8DF](/images/dongdonghai/d8df-1.jpg =400x)
+*D8DF*
+
+![D8DF](/images/dongdonghai/d8df-2.jpg =400x)
+*D8DF*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Performance
 The large reflector gives excellent range. With an F150R, NBT160, SBT90 or a similar emitter it can reach well over 1600m.

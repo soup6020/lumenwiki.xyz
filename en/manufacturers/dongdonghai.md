@@ -3,7 +3,9 @@ title: DongDongHai
 description: DongDongHai (DDH) flashlight hosts
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: manufacturer, dongdonghai
+tags:
+  - manufacturer
+  - dongdonghai
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -53,6 +55,18 @@ XBY drivers come with one of two UIs, and on drivers that have both, 7H switches
 The INeedMoreLumens drivers run Anduril 2.
 
 To install the Technoman UI on an XBY47 v4.2 driver, see [Flashing the XBY47 v4.2 driver](/guides/flashing-xby47-v4-2).
+
+### Driver photos
+![XBY47 Ver4.20](/images/dongdonghai/xby47-v4-20.jpg =400x)
+*XBY47 Ver4.20 (50A buck). The V, G, T and R flashing pads are at the upper left.*
+
+![XBY47 Ver4.19](/images/dongdonghai/xby47-v4-19.jpg =400x)
+*XBY47 Ver4.19, with fan connections (Fan+ / Fan−)*
+
+![XBY47 Ver4.15](/images/dongdonghai/xby47-v4-15.jpg =400x)
+*XBY47 Ver4.15 (35A buck)*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Notes
 - DDH reflectors are reported to be interchangeable with those of the Convoy C8, C8+, M21A and MantaRay M45.

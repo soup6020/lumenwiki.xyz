@@ -5,7 +5,11 @@ description: >-
   driver
 published: true
 date: '2026-11-09T01:45:32.751Z'
-tags: []
+tags:
+  - guide
+  - flashing
+  - xby
+  - dongdonghai
 editor: markdown
 dateCreated: '2026-11-09T00:00:00.000Z'
 ---
@@ -37,7 +41,12 @@ An Arduino Nano or Uno (both ATmega328P boards) has also been used successfully 
 - On at least one board, TX and RX had to be swapped. This is normal for UART. If flashing this way doesn't work, try swapping them.
 
 ## Wiring
-The driver has four programming pads, marked **V**, **G**, **T** and **R**. Trace which probe pin lands on each pad, then wire the probe to the adapter:
+The driver has four programming pads, marked **V**, **G**, **T** and **R**. On the v4.20 board they're at the upper left, next to the "47mm 5-Buck20" label:
+
+![XBY47 Ver4.20 driver](/images/dongdonghai/xby47-v4-20.jpg =400x)
+*XBY47 Ver4.20. The V/G pads are on the left and the T/R pads on the right. Photo by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
+
+Trace which probe pin lands on each pad, then wire the probe to the adapter:
 
 | Driver pad | Adapter pin | Purpose |
 |---|---|---|

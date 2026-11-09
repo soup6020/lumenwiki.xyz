@@ -3,7 +3,8 @@ title: Guides
 description: How-to guides for building, modding and flashing flashlights
 published: true
 date: '2026-11-09T00:00:00.000Z'
-tags: guide
+tags:
+  - guide
 editor: markdown
 dateCreated: '2026-11-09T00:00:00.000Z'
 ---

@@ -3,7 +3,10 @@ title: DongDongHai M1C
 description: DongDongHai M1C 21700 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 21700
+tags:
+  - dongdonghai
+  - host
+  - '21700'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -25,6 +28,15 @@ The **M1C** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 | Weight | 141g |
 | Colours | Silver / Black |
 | Remarks | Integrated 3A charging in tube |
+
+## Photos
+![M1C](/images/dongdonghai/m1c-1.jpg =400x)
+*M1C*
+
+![M1C](/images/dongdonghai/m1c-2.jpg =400x)
+*M1C*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Where to buy
 - [Taobao](https://item.taobao.com/item.htm?id=632788455816)

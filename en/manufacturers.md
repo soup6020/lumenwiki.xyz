@@ -3,7 +3,8 @@ title: Manufacturers
 description: Flashlight manufacturers
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: manufacturer
+tags:
+  - manufacturer
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---

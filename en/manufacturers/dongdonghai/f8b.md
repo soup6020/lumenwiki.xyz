@@ -3,7 +3,10 @@ title: DongDongHai F8B
 description: DongDongHai F8B 46950 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 46950
+tags:
+  - dongdonghai
+  - host
+  - '46950'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -27,6 +30,15 @@ Also known simply as the **F8**. The **F8V** is a white MAO (micro-arc oxidation
 | Weight | 845g |
 | Colours | Black (F8V: white) |
 | Remarks | 2 cooling fans, tripod mount, USB-C |
+
+## Photos
+![F8B](/images/dongdonghai/f8b-1.jpg =400x)
+*F8B*
+
+![F8B](/images/dongdonghai/f8b-2.jpg =400x)
+*F8B*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Emitters
 The F8 takes 8 emitters, either 8×7070 or 8×5050.

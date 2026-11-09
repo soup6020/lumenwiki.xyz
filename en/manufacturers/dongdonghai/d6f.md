@@ -3,7 +3,10 @@ title: DongDongHai D6F
 description: DongDongHai D6F 46950 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 46950
+tags:
+  - dongdonghai
+  - host
+  - '46950'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -25,6 +28,15 @@ The **D6F** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 4
 | Weight | 541g |
 | Colours | Black |
 | Remarks | 3×21700 and 46120 tubes available |
+
+## Photos
+![D6F](/images/dongdonghai/d6f-1.jpg =400x)
+*D6F*
+
+![D6F](/images/dongdonghai/d6f-2.jpg =400x)
+*D6F*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Battery tubes
 The D6F, D7F, D8, D8DF, F8B and X10 share a 53mm battery tube system. Reported options are 46950, 46120 and 2×46950 tubes, and a 3×21700 carrier.

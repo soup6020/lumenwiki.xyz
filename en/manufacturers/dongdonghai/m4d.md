@@ -3,7 +3,10 @@ title: DongDongHai M4D
 description: DongDongHai M4D 26650 / 21700 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 26650
+tags:
+  - dongdonghai
+  - host
+  - '26650'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---

@@ -3,7 +3,10 @@ title: DongDongHai D2i
 description: DongDongHai D2i 26650 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 26650
+tags:
+  - dongdonghai
+  - host
+  - '26650'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -25,6 +28,12 @@ The **D2i** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 | Weight | 230g |
 | Colours | Silver / Black |
 | Remarks | Integrated 3A charging in tube |
+
+## Photos
+![D2i in black and silver](/images/dongdonghai/d2i-1.jpg =400x)
+*D2i in black and silver*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Where to buy
 - [Taobao](https://item.taobao.com/item.htm?id=604923372267)

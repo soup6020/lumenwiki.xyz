@@ -3,7 +3,10 @@ title: DongDongHai M4C
 description: DongDongHai M4C 21700 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 21700
+tags:
+  - dongdonghai
+  - host
+  - '21700'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -28,6 +31,18 @@ The **M4C** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 | Weight | 319g |
 | Colours | Silver / Black |
 | Remarks | Discontinued |
+
+## Photos
+![M4C](/images/dongdonghai/m4c-1.jpg =400x)
+*M4C*
+
+![M4C parts](/images/dongdonghai/m4c-2.jpg =400x)
+*M4C parts*
+
+![4-emitter (left) and single-emitter (right) reflectors, shown without emitters](/images/dongdonghai/m4-reflectors.jpg =400x)
+*4-emitter (left) and single-emitter (right) reflectors, shown without emitters*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Drivers
 INeedMoreLumens' open-source [32mm_FET+1+C_v1.1](https://oshpark.com/shared_projects/wJUqO261) Anduril 2 driver fits the M4C.

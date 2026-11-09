@@ -3,7 +3,10 @@ title: DongDongHai D2GC
 description: DongDongHai D2GC 21700 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 21700
+tags:
+  - dongdonghai
+  - host
+  - '21700'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -25,6 +28,12 @@ The **D2GC** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 
 | Weight | Not specified |
 | Colours | Silver / Black |
 | Remarks | Integrated 3A charging in tube |
+
+## Photos
+![D2GC in silver and black](/images/dongdonghai/d2gc-1.jpg =400x)
+*D2GC in silver and black*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## D2G
 The **D2G** is the mechanical (clicky) switch version of this host; the D2GC is the e-switch version. Kaidomain sells the D2G as the [K2G](https://kaidomain.com/Flashlight-DIY-and-Tools/diy-flashlight-shell-or-flashlight-host/K2G-21700-USB-Type-C-Rechargeable-LED-Flashlight-Host).

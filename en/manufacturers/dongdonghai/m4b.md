@@ -3,7 +3,10 @@ title: DongDongHai M4B
 description: DongDongHai M4B 21700 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 21700
+tags:
+  - dongdonghai
+  - host
+  - '21700'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -25,6 +28,18 @@ The **M4B** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 | Weight | 319g |
 | Colours | Black |
 | Remarks | Integrated 3A charging in tube |
+
+## Photos
+![M4B](/images/dongdonghai/m4b-1.jpg =400x)
+*M4B*
+
+![M4B parts. The USB-C charging port is hidden in the battery tube threads](/images/dongdonghai/m4b-2.jpg =400x)
+*M4B parts. The USB-C charging port is hidden in the battery tube threads*
+
+![4-emitter (left) and single-emitter (right) reflectors, shown without emitters](/images/dongdonghai/m4-reflectors.jpg =400x)
+*4-emitter (left) and single-emitter (right) reflectors, shown without emitters*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Drivers
 INeedMoreLumens' open-source [32mm_FET+1_v1.0](https://oshpark.com/shared_projects/8pnFmzGW) Anduril 2 driver was designed for the M4B.

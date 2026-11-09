@@ -3,7 +3,9 @@ title: Technoman UI
 description: Technoman's custom UI for XBY flashlight drivers
 published: true
 date: '2026-11-08T23:00:00.000Z'
-tags: ui, xby
+tags:
+  - ui
+  - xby
 editor: markdown
 dateCreated: '2026-11-08T23:00:00.000Z'
 ---

@@ -3,7 +3,10 @@ title: DongDongHai D7F
 description: DongDongHai D7F 46950 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 46950
+tags:
+  - dongdonghai
+  - host
+  - '46950'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -25,6 +28,18 @@ The **D7F** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 4
 | Weight | 530g |
 | Colours | Black |
 | Remarks | 3×21700 and 46120 tubes available |
+
+## Photos
+![D7F](/images/dongdonghai/d7f-1.jpg =400x)
+*D7F*
+
+![D7F](/images/dongdonghai/d7f-2.jpg =400x)
+*D7F*
+
+![D7F with the 3×21700 tube](/images/dongdonghai/d7f-3x21700.jpg =400x)
+*D7F with the 3×21700 tube*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Variants
 ### D7F Single

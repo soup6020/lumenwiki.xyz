@@ -3,7 +3,10 @@ title: DongDongHai D4i
 description: DongDongHai D4i 26650 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 26650
+tags:
+  - dongdonghai
+  - host
+  - '26650'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -25,6 +28,15 @@ The **D4i** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 | Weight | 328g |
 | Colours | Black |
 | Remarks | Integrated 3A charging in tube |
+
+## Photos
+![D4i](/images/dongdonghai/d4i-1.jpg =400x)
+*D4i*
+
+![D4i head, battery tube with USB-C port, and tailcap](/images/dongdonghai/d4i-2.jpg =400x)
+*D4i head, battery tube with USB-C port, and tailcap*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Variants
 The thread also lists a multi-emitter D4i with 4 emitters (5050) on a 32mm MCPCB, with otherwise identical specs. No purchase link is given for it.

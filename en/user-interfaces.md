@@ -3,7 +3,8 @@ title: User interfaces
 description: Flashlight driver user interfaces (UIs)
 published: true
 date: '2026-11-08T23:00:00.000Z'
-tags: ui
+tags:
+  - ui
 editor: markdown
 dateCreated: '2026-11-08T23:00:00.000Z'
 ---

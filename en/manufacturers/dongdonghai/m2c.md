@@ -3,7 +3,10 @@ title: DongDongHai M2C
 description: DongDongHai M2C 21700 flashlight host
 published: true
 date: '2026-11-08T22:00:00.000Z'
-tags: dongdonghai, host, 21700
+tags:
+  - dongdonghai
+  - host
+  - '21700'
 editor: markdown
 dateCreated: '2026-11-08T22:00:00.000Z'
 ---
@@ -25,6 +28,15 @@ The **M2C** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 2
 | Weight | 172g |
 | Colours | Silver / Black |
 | Remarks | Integrated 3A charging in tube |
+
+## Photos
+![M2C](/images/dongdonghai/m2c-1.jpg =400x)
+*M2C*
+
+![M2C](/images/dongdonghai/m2c-2.jpg =400x)
+*M2C*
+
+*Photos by billy_s on [BudgetLightForum](https://budgetlightforum.com/t/the-unofficial-dongdonghai-ddh-info-thread-and-the-dongers-lounge/232549), used with permission.*
 
 ## Variants
 ### M2C Triple
