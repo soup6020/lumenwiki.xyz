@@ -2,7 +2,7 @@
 title: DongDongHai F8B
 description: DongDongHai F8B 46950 flashlight host
 published: true
-date: '2026-11-08T22:00:00.000Z'
+date: '2026-11-10T00:38:32.007Z'
 tags:
   - dongdonghai
   - host
@@ -12,7 +12,7 @@ dateCreated: '2026-11-08T22:00:00.000Z'
 ---
 
 # DongDongHai F8B
-The **F8B** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 46950 cells with an 85mm head.
+The **F8B** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 46950 cells with an 85mm head. 46120 and triple 21700 options are also available.
 
 Also known simply as the **F8**. The **F8V** is a white MAO (micro-arc oxidation) finish version.
 
@@ -25,7 +25,7 @@ Also known simply as the **F8**. The **F8V** is a white MAO (micro-arc oxidation
 | Driver diameter | 47mm |
 | Switch | Side (e-switch) |
 | Battery tube diameter | 53mm |
-| Battery | 46950 |
+| Battery | 46950/46120/3x21700 |
 | Overall length | 198mm |
 | Weight | 845g |
 | Colours | Black (F8V: white) |
