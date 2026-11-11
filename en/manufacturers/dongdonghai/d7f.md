@@ -12,7 +12,7 @@ dateCreated: '2026-11-08T22:00:00.000Z'
 ---
 
 # DongDongHai D7F
-The **D7F** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 46950 cells with a 65mm head.
+The **D7F** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 46950 cells with a 65mm head. 46120 and triple 21700 options are also available.
 
 ## Specifications
 | Spec | Value |
@@ -23,11 +23,10 @@ The **D7F** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 4
 | Driver diameter | 47mm |
 | Switch | Side (e-switch) |
 | Battery tube diameter | 53mm |
-| Battery | 46950 |
+| Battery | 46950 / 46120 / 3x21700 |
 | Overall length | 180mm |
 | Weight | 530g |
 | Colours | Black |
-| Remarks | 3×21700 and 46120 tubes available |
 
 ## Photos
 ![D7F](/images/dongdonghai/d7f-1.jpg =400x)

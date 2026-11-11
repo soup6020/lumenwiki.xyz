@@ -30,12 +30,12 @@ dateCreated: '2026-11-08T22:00:00.000Z'
 | [D2iC](/manufacturers/dongdonghai/d2ic) | 26650 | 45mm | 20/25mm | 32mm | Side (e-switch) | 150mm | 219g |
 | [D4i](/manufacturers/dongdonghai/d4i) | 26650 | 60mm | 20/32mm | 22mm | Tail | 176mm | 328g |
 | [D5F](/manufacturers/dongdonghai/d5f) | 26650 | 64.5mm | 32mm | 32mm | Side (e-switch) | 175mm | 395g |
-| [D6F](/manufacturers/dongdonghai/d6f) | 46950 | 65mm | 32mm | 47mm | Side (e-switch) | 195mm | 541g |
-| [D7F](/manufacturers/dongdonghai/d7f) | 46950 | 65mm | 50mm | 47mm | Side (e-switch) | 180mm | 530g |
-| [D8](/manufacturers/dongdonghai/d8) | 46950 | 85mm | 50mm | 47mm | Side (e-switch) | 220mm | 764g |
-| [D8DF](/manufacturers/dongdonghai/d8df) | 46950 | 85mm | 50mm | 47mm | Side (e-switch) | 246mm | 810g |
+| [D6F](/manufacturers/dongdonghai/d6f) | 46950 / 46120 / 3x21700 | 65mm | 32mm | 47mm | Side (e-switch) | 195mm | 541g |
+| [D7F](/manufacturers/dongdonghai/d7f) | 46950 / 46120 / 3x21700 | 65mm | 50mm | 47mm | Side (e-switch) | 180mm | 530g |
+| [D8](/manufacturers/dongdonghai/d8) | 46950 / 46120 / 3x21700 | 85mm | 50mm | 47mm | Side (e-switch) | 220mm | 764g |
+| [D8DF](/manufacturers/dongdonghai/d8df) | 46950 / 46120 / 3x21700 | 85mm | 50mm | 47mm | Side (e-switch) | 246mm | 810g |
 | [F8B](/manufacturers/dongdonghai/f8b) | 46950 / 46120 / 3x21700 | 85mm | 50mm (BLF thread: 60mm) | 47mm | Side (e-switch) | 198mm | 845g |
-| [X10](/manufacturers/dongdonghai/x10) | 46950 | 65mm | 60mm | 47mm | Side (e-switch) | 188mm | 607g |
+| [X10](/manufacturers/dongdonghai/x10) | 46950 / 46120 / 3x21700 | 65mm | 60mm | 47mm | Side (e-switch) | 188mm | 607g |
 
 ## Drivers
 | Driver | Size | Type | Notes |

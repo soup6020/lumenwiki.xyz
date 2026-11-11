@@ -12,7 +12,7 @@ dateCreated: '2026-11-08T22:00:00.000Z'
 ---
 
 # DongDongHai D8DF
-The **D8DF** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 46950 cells with an 85mm head.
+The **D8DF** is a [DongDongHai](/manufacturers/dongdonghai) flashlight host for 46950 cells with an 85mm head. 46120 and triple 21700 options are also available.
 
 The D8DF is the same as the [D8](/manufacturers/dongdonghai/d8), but its body is taller to hold two cooling fans.
 
@@ -25,7 +25,7 @@ The D8DF is the same as the [D8](/manufacturers/dongdonghai/d8), but its body is
 | Driver diameter | 47mm |
 | Switch | Side (e-switch) |
 | Battery tube diameter | 53mm |
-| Battery | 46950 |
+| Battery | 46950 / 46120 / 3x21700 |
 | Overall length | 246mm |
 | Weight | 810g |
 | Colours | Black |
